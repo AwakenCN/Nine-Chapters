@@ -10,7 +10,8 @@
 
 * [LeetCode中文网](https://leetcode-cn.com/problemset/all/)        
 * [LeetCode官网](https://leetcode.com/)
-* [面试](https://leetcode-cn.com/interview)    
+* [面试](https://leetcode-cn.com/interview)
+* [Java基础算法](doc/catsay/directory.md)
     
     
 ## 数据结构
