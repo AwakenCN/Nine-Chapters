@@ -12,10 +12,14 @@
     </parent>
 
     <groupId>com.awaken</groupId>
-    <artifactId>leetcode</artifactId>
+    <artifactId>Nine-Chapters</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <description>leetcode Algorithm solution</description>
 
+    <description>
+        Data Structures and Algorithms
+        LeetCode Algorithm solution
+        剑指 Offer
+    </description>
 
     <dependencies>
 
