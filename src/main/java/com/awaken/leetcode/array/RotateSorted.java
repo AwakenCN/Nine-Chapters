@@ -50,7 +50,7 @@ public class RotateSorted {
             }
         }
 
-        return 0;
+        return -1;
     }
 
     public static void main(String[] args) {

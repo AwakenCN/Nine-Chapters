@@ -40,4 +40,6 @@
 
 ## 算法题目最优解
 
+- [面试题56 - I. 数组中数字出现的次数](doc/study/Data-Structures/leetcode/array/SingleNumber.md)
+
 
