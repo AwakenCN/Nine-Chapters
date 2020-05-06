@@ -49,10 +49,7 @@ public class HappyNumber {
         return fastRunner == 1;
     }
 
-
-    private static final Set<Integer> cycleMembers =
-            new HashSet<>(Arrays.asList(4, 16, 37, 58, 89, 145, 42, 20));
-
+    private static final Set<Integer> cycleMembers = new HashSet<>(Arrays.asList(4, 16, 37, 58, 89, 145, 42, 20));
     //方法三、数学法
     public boolean isHappyMath(int n) {
         while (n != 1 && !cycleMembers.contains(n)) {
